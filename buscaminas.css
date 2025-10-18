@@ -1,0 +1,33 @@
+/* GENERAL */
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    justify-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* TITOL */
+h1 {
+    margin: 50px;
+}
+
+/* TAULA */
+table {
+    margin-top: 50px;
+    border-collapse: collapse;
+    background-color: gray;
+}
+
+td {
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+}
+
+img {
+    width: 40px;
+    height: 40px;
+}
